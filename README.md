@@ -1,2 +1,2 @@
-# HSE_Slaves
+# HSE_Project
 Event management app.
